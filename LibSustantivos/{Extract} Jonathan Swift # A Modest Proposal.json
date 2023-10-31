@@ -1,0 +1,3924 @@
+{
+    "Nouns": [
+        {
+            "word": "abortions",
+            "postions": [574],
+            "repeats": 1
+        },
+        {
+            "word": "above",
+            "postions": [477, 852, 910, 1837],
+            "repeats": 4
+        },
+        {
+            "word": "absence",
+            "postions": [2222],
+            "repeats": 1
+        },
+        {
+            "word": "access",
+            "postions": [3912, 4046, 4164, 4339, 4524, 4708, 4748, 4846, 4878, 5074],
+            "repeats": 10
+        },
+        {
+            "word": "accessed",
+            "postions": [4376],
+            "repeats": 1
+        },
+        {
+            "word": "accident",
+            "postions": [708],
+            "repeats": 1
+        },
+        {
+            "word": "accordance",
+            "postions": [5085, 5709],
+            "repeats": 2
+        },
+        {
+            "word": "account",
+            "postions": [929],
+            "repeats": 1
+        },
+        {
+            "word": "acquaintance",
+            "postions": [981, 1698],
+            "repeats": 2
+        },
+        {
+            "word": "acting",
+            "postions": [2942],
+            "repeats": 1
+        },
+        {
+            "word": "active",
+            "postions": [4333, 4704],
+            "repeats": 2
+        },
+        {
+            "word": "addition",
+            "postions": [2622, 4271],
+            "repeats": 2
+        },
+        {
+            "word": "additions",
+            "postions": [5768],
+            "repeats": 1
+        },
+        {
+            "word": "address",
+            "postions": [4993],
+            "repeats": 1
+        },
+        {
+            "word": "advantage",
+            "postions": [564, 1352, 2219],
+            "repeats": 3
+        },
+        {
+            "word": "advantages",
+            "postions": [2144, 2615],
+            "repeats": 2
+        },
+        {
+            "word": "affairs",
+            "postions": [752],
+            "repeats": 1
+        },
+        {
+            "word": "age",
+            "postions": [392, 859, 905, 1628],
+            "repeats": 4
+        },
+        {
+            "word": "agent",
+            "postions": [5694],
+            "repeats": 1
+        },
+        {
+            "word": "agreement",
+            "postions": [3868, 3882, 3932, 3989, 4014, 4040, 4181, 4201, 4277, 5132, 5168, 5337, 5388, 5634, 5644, 5646, 5672, 5712],
+            "repeats": 18
+        },
+        {
+            "word": "agriculture",
+            "postions": [771],
+            "repeats": 1
+        },
+        {
+            "word": "all",
+            "postions": [196, 222, 271, 757, 1377, 2341, 2440, 2485, 3201, 3805, 3858, 3877, 3891, 4080, 4142, 4323, 4623, 5057, 5069, 5073, 5127, 5339, 5730, 5833, 6128, 6355],
+            "repeats": 26
+        },
+        {
+            "word": "alteration",
+            "postions": [5765],
+            "repeats": 1
+        },
+        {
+            "word": "alternate",
+            "postions": [4825],
+            "repeats": 1
+        },
+        {
+            "word": "american",
+            "postions": [978, 1697],
+            "repeats": 2
+        },
+        {
+            "word": "annual",
+            "postions": [2533],
+            "repeats": 1
+        },
+        {
+            "word": "answer",
+            "postions": [1730, 3361],
+            "repeats": 2
+        },
+        {
+            "word": "anyone",
+            "postions": [15, 4390, 4507, 5700, 6326],
+            "repeats": 5
+        },
+        {
+            "word": "anything",
+            "postions": [3679, 3726],
+            "repeats": 2
+        },
+        {
+            "word": "anywhere",
+            "postions": [16, 4391],
+            "repeats": 2
+        },
+        {
+            "word": "approach",
+            "postions": [6223],
+            "repeats": 1
+        },
+        {
+            "word": "archive",
+            "postions": [4061, 4947, 4989, 5006, 5180, 5316, 5877, 5902, 5932, 5938, 5981, 6048, 6419],
+            "repeats": 13
+        },
+        {
+            "word": "arms",
+            "postions": [281],
+            "repeats": 1
+        },
+        {
+            "word": "array",
+            "postions": [6090],
+            "repeats": 1
+        },
+        {
+            "word": "art",
+            "postions": [877, 2642],
+            "repeats": 2
+        },
+        {
+            "word": "assistance",
+            "postions": [5846],
+            "repeats": 1
+        },
+        {
+            "word": "attempt",
+            "postions": [1892, 3087, 3359],
+            "repeats": 3
+        },
+        {
+            "word": "author",
+            "postions": [94, 1285, 3252],
+            "repeats": 3
+        },
+        {
+            "word": "authors",
+            "postions": [3254],
+            "repeats": 1
+        },
+        {
+            "word": "away",
+            "postions": [43, 2088, 4418],
+            "repeats": 3
+        },
+        {
+            "word": "babes",
+            "postions": [594, 2523],
+            "repeats": 2
+        },
+        {
+            "word": "backs",
+            "postions": [285, 3285],
+            "repeats": 2
+        },
+        {
+            "word": "bacon",
+            "postions": [2646],
+            "repeats": 1
+        },
+        {
+            "word": "bastard",
+            "postions": [583],
+            "repeats": 1
+        },
+        {
+            "word": "bear",
+            "postions": [3164],
+            "repeats": 1
+        },
+        {
+            "word": "beat",
+            "postions": [2598],
+            "repeats": 1
+        },
+        {
+            "word": "beef",
+            "postions": [2632],
+            "repeats": 1
+        },
+        {
+            "word": "beggars",
+            "postions": [184, 372, 1370, 3323, 3341],
+            "repeats": 5
+        },
+        {
+            "word": "beginning",
+            "postions": [4636],
+            "repeats": 1
+        },
+        {
+            "word": "being",
+            "postions": [134, 210, 362, 522, 625, 682, 1292, 1642, 2184, 2282, 2364, 2704, 2962, 3168, 3289, 3532],
+            "repeats": 16
+        },
+        {
+            "word": "believe",
+            "postions": [1396],
+            "repeats": 1
+        },
+        {
+            "word": "best",
+            "postions": [1253, 2426],
+            "repeats": 2
+        },
+        {
+            "word": "binary",
+            "postions": [4729],
+            "repeats": 1
+        },
+        {
+            "word": "black",
+            "postions": [1067],
+            "repeats": 1
+        },
+        {
+            "word": "body",
+            "postions": [1880],
+            "repeats": 1
+        },
+        {
+            "word": "boiled",
+            "postions": [1008, 1190],
+            "repeats": 2
+        },
+        {
+            "word": "bold",
+            "postions": [3357],
+            "repeats": 1
+        },
+        {
+            "word": "boots",
+            "postions": [1505],
+            "repeats": 1
+        },
+        {
+            "word": "bound",
+            "postions": [3926, 3983],
+            "repeats": 2
+        },
+        {
+            "word": "boy",
+            "postions": [886],
+            "repeats": 1
+        },
+        {
+            "word": "breach",
+            "postions": [5362, 5366],
+            "repeats": 2
+        },
+        {
+            "word": "breast",
+            "postions": [617],
+            "repeats": 1
+        },
+        {
+            "word": "breed",
+            "postions": [1050, 3462],
+            "repeats": 2
+        },
+        {
+            "word": "breeders",
+            "postions": [648, 692, 1756, 2187, 2375],
+            "repeats": 5
+        },
+        {
+            "word": "build",
+            "postions": [774],
+            "repeats": 1
+        },
+        {
+            "word": "bulk",
+            "postions": [3328],
+            "repeats": 1
+        },
+        {
+            "word": "burden",
+            "postions": [136],
+            "repeats": 1
+        },
+        {
+            "word": "business",
+            "postions": [6001],
+            "repeats": 1
+        },
+        {
+            "word": "but",
+            "postions": [355, 680, 1267, 1670, 1804, 2026, 2697, 3093, 3231, 4932, 5252, 5592, 6234],
+            "repeats": 13
+        },
+        {
+            "word": "butchers",
+            "postions": [1530],
+            "repeats": 1
+        },
+        {
+            "word": "buy",
+            "postions": [3011],
+            "repeats": 1
+        },
+        {
+            "word": "buying",
+            "postions": [1543],
+            "repeats": 1
+        },
+        {
+            "word": "calf",
+            "postions": [2586],
+            "repeats": 1
+        },
+        {
+            "word": "can",
+            "postions": [764, 785, 821, 1925, 2062, 2768, 2846, 3150, 3523, 3591, 3997, 4026, 4193, 4240, 4501, 5439, 5910, 6026, 6079],
+            "repeats": 19
+        },
+        {
+            "word": "carcass",
+            "postions": [1407, 1490, 1865],
+            "repeats": 3
+        },
+        {
+            "word": "card",
+            "postions": [6286],
+            "repeats": 1
+        },
+        {
+            "word": "care",
+            "postions": [2503],
+            "repeats": 1
+        },
+        {
+            "word": "carry",
+            "postions": [6064],
+            "repeats": 1
+        },
+        {
+            "word": "cattle",
+            "postions": [1068, 2281],
+            "repeats": 2
+        },
+        {
+            "word": "cause",
+            "postions": [5752, 5781],
+            "repeats": 2
+        },
+        {
+            "word": "chair",
+            "postions": [1956],
+            "repeats": 1
+        },
+        {
+            "word": "change",
+            "postions": [4256],
+            "repeats": 1
+        },
+        {
+            "word": "charge",
+            "postions": [524, 937, 1366, 1732, 2396, 3651, 3678, 4222, 4842, 4869, 5145],
+            "repeats": 11
+        },
+        {
+            "word": "charges",
+            "postions": [4517],
+            "repeats": 1
+        },
+        {
+            "word": "charity",
+            "postions": [411],
+            "repeats": 1
+        },
+        {
+            "word": "check",
+            "postions": [76, 4264, 4451, 6259],
+            "repeats": 4
+        },
+        {
+            "word": "checks",
+            "postions": [6281],
+            "repeats": 1
+        },
+        {
+            "word": "child",
+            "postions": [454, 988, 1152, 1206, 1371, 1412, 1474, 2556, 2678],
+            "repeats": 9
+        },
+        {
+            "word": "children",
+            "postions": [127, 195, 278, 327, 369, 584, 664, 705, 722, 1041, 1077, 1257, 1299, 1545, 2298, 2390, 2510, 3338, 3519],
+            "repeats": 19
+        },
+        {
+            "word": "circumstance",
+            "postions": [1085],
+            "repeats": 1
+        },
+        {
+            "word": "city",
+            "postions": [1512, 2715, 2958, 6012],
+            "repeats": 4
+        },
+        {
+            "word": "claim",
+            "postions": [4120],
+            "repeats": 1
+        },
+        {
+            "word": "clothes",
+            "postions": [2872, 3438],
+            "repeats": 2
+        },
+        {
+            "word": "clothing",
+            "postions": [555],
+            "repeats": 1
+        },
+        {
+            "word": "codes",
+            "postions": [5283],
+            "repeats": 1
+        },
+        {
+            "word": "cold",
+            "postions": [2052],
+            "repeats": 1
+        },
+        {
+            "word": "collateral",
+            "postions": [1351],
+            "repeats": 1
+        },
+        {
+            "word": "collection",
+            "postions": [4073, 4086, 5230, 5862],
+            "repeats": 4
+        },
+        {
+            "word": "commercial",
+            "postions": [3747],
+            "repeats": 1
+        },
+        {
+            "word": "commodity",
+            "postions": [897, 3161],
+            "repeats": 2
+        },
+        {
+            "word": "common",
+            "postions": [2106, 3307, 3432],
+            "repeats": 3
+        },
+        {
+            "word": "commonwealth",
+            "postions": [334],
+            "repeats": 1
+        },
+        {
+            "word": "compliance",
+            "postions": [4175, 6135, 6174, 6183, 6382],
+            "repeats": 5
+        },
+        {
+            "word": "compressed",
+            "postions": [4730],
+            "repeats": 1
+        },
+        {
+            "word": "computer",
+            "postions": [5279, 5282],
+            "repeats": 2
+        },
+        {
+            "word": "computers",
+            "postions": [5810, 5817],
+            "repeats": 2
+        },
+        {
+            "word": "concept",
+            "postions": [3635, 6313],
+            "repeats": 2
+        },
+        {
+            "word": "concern",
+            "postions": [1989],
+            "repeats": 1
+        },
+        {
+            "word": "condition",
+            "postions": [2080],
+            "repeats": 1
+        },
+        {
+            "word": "confirmation",
+            "postions": [6172],
+            "repeats": 1
+        },
+        {
+            "word": "confirmed",
+            "postions": [6359],
+            "repeats": 1
+        },
+        {
+            "word": "conscience",
+            "postions": [2245],
+            "repeats": 1
+        },
+        {
+            "word": "consciences",
+            "postions": [2972],
+            "repeats": 1
+        },
+        {
+            "word": "consideration",
+            "postions": [1033],
+            "repeats": 1
+        },
+        {
+            "word": "constant",
+            "postions": [2374, 2718, 4253],
+            "repeats": 3
+        },
+        {
+            "word": "contact",
+            "postions": [5189, 6018, 6024],
+            "repeats": 3
+        },
+        {
+            "word": "contract",
+            "postions": [5368],
+            "repeats": 1
+        },
+        {
+            "word": "contradiction",
+            "postions": [3241],
+            "repeats": 1
+        },
+        {
+            "word": "contrary",
+            "postions": [546],
+            "repeats": 1
+        },
+        {
+            "word": "contributions",
+            "postions": [5975, 6197],
+            "repeats": 2
+        },
+        {
+            "word": "conversation",
+            "postions": [1843],
+            "repeats": 1
+        },
+        {
+            "word": "convert",
+            "postions": [4721],
+            "repeats": 1
+        },
+        {
+            "word": "cook",
+            "postions": [2457],
+            "repeats": 1
+        },
+        {
+            "word": "copy",
+            "postions": [39, 3592, 3909, 4351, 4414, 4677, 4796, 4802, 4809, 5102, 5500, 5541],
+            "repeats": 12
+        },
+        {
+            "word": "copying",
+            "postions": [3623, 4127, 4280, 4851],
+            "repeats": 4
+        },
+        {
+            "word": "copyright",
+            "postions": [3572, 3582, 3605, 3737, 4070, 4103, 4227, 4245, 4305, 4481, 4497, 4589, 4610, 4631, 5212, 5223, 5264, 6364, 6370],
+            "repeats": 19
+        },
+        {
+            "word": "corn",
+            "postions": [2279],
+            "repeats": 1
+        },
+        {
+            "word": "corporation",
+            "postions": [5945],
+            "repeats": 1
+        },
+        {
+            "word": "cost",
+            "postions": [30, 4405, 4787],
+            "repeats": 3
+        },
+        {
+            "word": "costs",
+            "postions": [5345, 5732],
+            "repeats": 2
+        },
+        {
+            "word": "country",
+            "postions": [81, 141, 172, 251, 780, 1568, 1850, 2118, 2235, 2923, 2970, 3187, 3498, 4269, 4312, 4456],
+            "repeats": 16
+        },
+        {
+            "word": "county",
+            "postions": [841, 1641],
+            "repeats": 2
+        },
+        {
+            "word": "couple",
+            "postions": [644, 656],
+            "repeats": 2
+        },
+        {
+            "word": "course",
+            "postions": [2013, 4150],
+            "repeats": 2
+        },
+        {
+            "word": "court",
+            "postions": [1913],
+            "repeats": 1
+        },
+        {
+            "word": "cover",
+            "postions": [3440],
+            "repeats": 1
+        },
+        {
+            "word": "cows",
+            "postions": [2584],
+            "repeats": 1
+        },
+        {
+            "word": "creation",
+            "postions": [3704],
+            "repeats": 1
+        },
+        {
+            "word": "creatures",
+            "postions": [3294],
+            "repeats": 1
+        },
+        {
+            "word": "credit",
+            "postions": [6285],
+            "repeats": 1
+        },
+        {
+            "word": "crowded",
+            "postions": [182],
+            "repeats": 1
+        },
+        {
+            "word": "crown",
+            "postions": [919],
+            "repeats": 1
+        },
+        {
+            "word": "crowns",
+            "postions": [1922],
+            "repeats": 1
+        },
+        {
+            "word": "cruelty",
+            "postions": [1785],
+            "repeats": 1
+        },
+        {
+            "word": "curate",
+            "postions": [2249],
+            "repeats": 1
+        },
+        {
+            "word": "current",
+            "postions": [6266],
+            "repeats": 1
+        },
+        {
+            "word": "custom",
+            "postions": [2411],
+            "repeats": 1
+        },
+        {
+            "word": "customers",
+            "postions": [2719],
+            "repeats": 1
+        },
+        {
+            "word": "dam",
+            "postions": [459],
+            "repeats": 1
+        },
+        {
+            "word": "damage",
+            "postions": [5285, 5414],
+            "repeats": 2
+        },
+        {
+            "word": "damages",
+            "postions": [5298, 5344, 5403, 5624],
+            "repeats": 4
+        },
+        {
+            "word": "danger",
+            "postions": [3153],
+            "repeats": 1
+        },
+        {
+            "word": "data",
+            "postions": [5260],
+            "repeats": 1
+        },
+        {
+            "word": "date",
+            "postions": [98, 4959, 6023],
+            "repeats": 3
+        },
+        {
+            "word": "day",
+            "postions": [1194, 2047, 3378],
+            "repeats": 3
+        },
+        {
+            "word": "days",
+            "postions": [4956, 5030, 5118, 5434],
+            "repeats": 4
+        },
+        {
+            "word": "dealing",
+            "postions": [3046],
+            "repeats": 1
+        },
+        {
+            "word": "dear",
+            "postions": [249, 1232],
+            "repeats": 2
+        },
+        {
+            "word": "death",
+            "postions": [1860],
+            "repeats": 1
+        },
+        {
+            "word": "debt",
+            "postions": [3313],
+            "repeats": 1
+        },
+        {
+            "word": "deer",
+            "postions": [1603],
+            "repeats": 1
+        },
+        {
+            "word": "defect",
+            "postions": [5105, 5427, 5779],
+            "repeats": 3
+        },
+        {
+            "word": "defects",
+            "postions": [5249],
+            "repeats": 1
+        },
+        {
+            "word": "degree",
+            "postions": [2095, 2983],
+            "repeats": 2
+        },
+        {
+            "word": "demand",
+            "postions": [409, 5547],
+            "repeats": 2
+        },
+        {
+            "word": "derivative",
+            "postions": [3706, 4133, 4286],
+            "repeats": 3
+        },
+        {
+            "word": "design",
+            "postions": [2207, 2809],
+            "repeats": 2
+        },
+        {
+            "word": "desire",
+            "postions": [2817, 3250, 3345],
+            "repeats": 3
+        },
+        {
+            "word": "destruction",
+            "postions": [2655],
+            "repeats": 1
+        },
+        {
+            "word": "die",
+            "postions": [706],
+            "repeats": 1
+        },
+        {
+            "word": "different",
+            "postions": [5160],
+            "repeats": 1
+        },
+        {
+            "word": "disclaimer",
+            "postions": [5296, 5627, 5654],
+            "repeats": 3
+        },
+        {
+            "word": "disclaimers",
+            "postions": [5610],
+            "repeats": 1
+        },
+        {
+            "word": "disease",
+            "postions": [710],
+            "repeats": 1
+        },
+        {
+            "word": "dish",
+            "postions": [1177, 2335],
+            "repeats": 2
+        },
+        {
+            "word": "disk",
+            "postions": [5274],
+            "repeats": 1
+        },
+        {
+            "word": "dislike",
+            "postions": [3349],
+            "repeats": 1
+        },
+        {
+            "word": "display",
+            "postions": [4678],
+            "repeats": 1
+        },
+        {
+            "word": "displayed",
+            "postions": [4377],
+            "repeats": 1
+        },
+        {
+            "word": "distress",
+            "postions": [2270],
+            "repeats": 1
+        },
+        {
+            "word": "distribution",
+            "postions": [3777, 4594, 5135, 5722, 5756, 5798],
+            "repeats": 6
+        },
+        {
+            "word": "distributor",
+            "postions": [5385],
+            "repeats": 1
+        },
+        {
+            "word": "do",
+            "postions": [1026, 1556, 3676, 3724, 3871, 3921, 3998, 4027, 4118, 4241, 4641, 4675, 4840, 5211, 5607, 5750, 6160, 6194, 6376],
+            "repeats": 19
+        },
+        {
+            "word": "does",
+            "postions": [4483, 5035],
+            "repeats": 2
+        },
+        {
+            "word": "domain",
+            "postions": [4091, 6074],
+            "repeats": 2
+        },
+        {
+            "word": "donation",
+            "postions": [6267],
+            "repeats": 1
+        },
+        {
+            "word": "donations",
+            "postions": [5000, 5829, 5909, 6042, 6062, 6098, 6126, 6163, 6177, 6216, 6230, 6244, 6271, 6287, 6413],
+            "repeats": 15
+        },
+        {
+            "word": "donors",
+            "postions": [6218],
+            "repeats": 1
+        },
+        {
+            "word": "doubt",
+            "postions": [596, 1013],
+            "repeats": 2
+        },
+        {
+            "word": "downloading",
+            "postions": [4279],
+            "repeats": 1
+        },
+        {
+            "word": "dressed",
+            "postions": [1496],
+            "repeats": 1
+        },
+        {
+            "word": "dressing",
+            "postions": [1548, 2429],
+            "repeats": 2
+        },
+        {
+            "word": "due",
+            "postions": [1672],
+            "repeats": 1
+        },
+        {
+            "word": "e-mail",
+            "postions": [5027],
+            "repeats": 1
+        },
+        {
+            "word": "earth",
+            "postions": [2849],
+            "repeats": 1
+        },
+        {
+            "word": "ease",
+            "postions": [2018],
+            "repeats": 1
+        },
+        {
+            "word": "eat",
+            "postions": [3193],
+            "repeats": 1
+        },
+        {
+            "word": "eating",
+            "postions": [2453],
+            "repeats": 1
+        },
+        {
+            "word": "edition",
+            "postions": [6387],
+            "repeats": 1
+        },
+        {
+            "word": "editions",
+            "postions": [3551, 3558, 3567, 6354],
+            "repeats": 4
+        },
+        {
+            "word": "effect",
+            "postions": [399, 3343],
+            "repeats": 2
+        },
+        {
+            "word": "effort",
+            "postions": [5208, 6145],
+            "repeats": 2
+        },
+        {
+            "word": "efforts",
+            "postions": [5233, 5823, 5907],
+            "repeats": 3
+        },
+        {
+            "word": "eight",
+            "postions": [1461, 2380],
+            "repeats": 2
+        },
+        {
+            "word": "eighty",
+            "postions": [2765],
+            "repeats": 1
+        },
+        {
+            "word": "elect",
+            "postions": [5495],
+            "repeats": 1
+        },
+        {
+            "word": "email",
+            "postions": [6017, 6434],
+            "repeats": 2
+        },
+        {
+            "word": "emperor",
+            "postions": [1896],
+            "repeats": 1
+        },
+        {
+            "word": "employ",
+            "postions": [221, 766, 2009],
+            "repeats": 3
+        },
+        {
+            "word": "employee",
+            "postions": [5696],
+            "repeats": 1
+        },
+        {
+            "word": "employees",
+            "postions": [5205],
+            "repeats": 1
+        },
+        {
+            "word": "end",
+            "postions": [3541],
+            "repeats": 1
+        },
+        {
+            "word": "english",
+            "postions": [111],
+            "repeats": 1
+        },
+        {
+            "word": "entertainment",
+            "postions": [1159, 2696],
+            "repeats": 2
+        },
+        {
+            "word": "entity",
+            "postions": [3942, 5486, 5515],
+            "repeats": 3
+        },
+        {
+            "word": "equipment",
+            "postions": [5292, 6092, 6095],
+            "repeats": 3
+        },
+        {
+            "word": "errors",
+            "postions": [5262],
+            "repeats": 1
+        },
+        {
+            "word": "esteem",
+            "postions": [1574],
+            "repeats": 1
+        },
+        {
+            "word": "evils",
+            "postions": [2126],
+            "repeats": 1
+        },
+        {
+            "word": "exchange",
+            "postions": [924],
+            "repeats": 1
+        },
+        {
+            "word": "exclusion",
+            "postions": [5617],
+            "repeats": 1
+        },
+        {
+            "word": "exercise",
+            "postions": [1719],
+            "repeats": 1
+        },
+        {
+            "word": "expense",
+            "postions": [4790],
+            "repeats": 1
+        },
+        {
+            "word": "expenses",
+            "postions": [5347, 5734],
+            "repeats": 2
+        },
+        {
+            "word": "experience",
+            "postions": [1703],
+            "repeats": 1
+        },
+        {
+            "word": "explanation",
+            "postions": [5456, 5482],
+            "repeats": 2
+        },
+        {
+            "word": "extent",
+            "postions": [379, 5989],
+            "repeats": 2
+        },
+        {
+            "word": "facility",
+            "postions": [6400],
+            "repeats": 1
+        },
+        {
+            "word": "factions",
+            "postions": [2940],
+            "repeats": 1
+        },
+        {
+            "word": "fair",
+            "postions": [319, 3042],
+            "repeats": 2
+        },
+        {
+            "word": "family",
+            "postions": [1165, 1436],
+            "repeats": 2
+        },
+        {
+            "word": "farmers",
+            "postions": [1384, 3330],
+            "repeats": 2
+        },
+        {
+            "word": "farrow",
+            "postions": [2594],
+            "repeats": 1
+        },
+        {
+            "word": "fat",
+            "postions": [1146, 1411, 2676],
+            "repeats": 3
+        },
+        {
+            "word": "fathers",
+            "postions": [297],
+            "repeats": 1
+        },
+        {
+            "word": "fear",
+            "postions": [2609],
+            "repeats": 1
+        },
+        {
+            "word": "feast",
+            "postions": [2691],
+            "repeats": 1
+        },
+        {
+            "word": "fee",
+            "postions": [3905, 3948, 4788, 4844, 4872, 4892, 4921, 5147],
+            "repeats": 8
+        },
+        {
+            "word": "feeding",
+            "postions": [550],
+            "repeats": 1
+        },
+        {
+            "word": "fees",
+            "postions": [4515, 5350, 5737, 6150],
+            "repeats": 4
+        },
+        {
+            "word": "female",
+            "postions": [187],
+            "repeats": 1
+        },
+        {
+            "word": "females",
+            "postions": [1101, 1737],
+            "repeats": 2
+        },
+        {
+            "word": "few",
+            "postions": [3993],
+            "repeats": 1
+        },
+        {
+            "word": "fight",
+            "postions": [253],
+            "repeats": 1
+        },
+        {
+            "word": "figure",
+            "postions": [2686, 3297],
+            "repeats": 2
+        },
+        {
+            "word": "file",
+            "postions": [3817],
+            "repeats": 1
+        },
+        {
+            "word": "files",
+            "postions": [4659],
+            "repeats": 1
+        },
+        {
+            "word": "filth",
+            "postions": [2056],
+            "repeats": 1
+        },
+        {
+            "word": "financial",
+            "postions": [5839],
+            "repeats": 1
+        },
+        {
+            "word": "find",
+            "postions": [316, 3274],
+            "repeats": 2
+        },
+        {
+            "word": "fine",
+            "postions": [1507, 2442],
+            "repeats": 2
+        },
+        {
+            "word": "first",
+            "postions": [2164, 2402, 3263, 3365],
+            "repeats": 4
+        },
+        {
+            "word": "fish",
+            "postions": [1291],
+            "repeats": 1
+        },
+        {
+            "word": "fit",
+            "postions": [1467],
+            "repeats": 1
+        },
+        {
+            "word": "fitness",
+            "postions": [5600],
+            "repeats": 1
+        },
+        {
+            "word": "fix",
+            "postions": [5556],
+            "repeats": 1
+        },
+        {
+            "word": "flesh",
+            "postions": [1259, 1706, 2637, 2722, 3167],
+            "repeats": 5
+        },
+        {
+            "word": "foal",
+            "postions": [2582],
+            "repeats": 1
+        },
+        {
+            "word": "follow",
+            "postions": [4035],
+            "repeats": 1
+        },
+        {
+            "word": "followed",
+            "postions": [189],
+            "repeats": 1
+        },
+        {
+            "word": "following",
+            "postions": [3657, 4330, 4957, 5747],
+            "repeats": 4
+        },
+        {
+            "word": "food",
+            "postions": [533, 1002, 1228, 2406, 3275, 3389],
+            "repeats": 6
+        },
+        {
+            "word": "form",
+            "postions": [4736, 4743, 4823, 6085],
+            "repeats": 4
+        },
+        {
+            "word": "format",
+            "postions": [4209, 4760, 4768, 4826],
+            "repeats": 4
+        },
+        {
+            "word": "formats",
+            "postions": [5803],
+            "repeats": 1
+        },
+        {
+            "word": "forth",
+            "postions": [3610, 3951, 4568, 4699, 5165, 5194, 5570, 5631],
+            "repeats": 8
+        },
+        {
+            "word": "fortune",
+            "postions": [1122, 2344],
+            "repeats": 2
+        },
+        {
+            "word": "fortunes",
+            "postions": [1950],
+            "repeats": 1
+        },
+        {
+            "word": "forty",
+            "postions": [6328],
+            "repeats": 1
+        },
+        {
+            "word": "foundation",
+            "postions": [3588, 4062, 4064, 4299, 4948, 4990, 5007, 5181, 5191, 5317, 5379, 5689, 5699, 5878, 5903, 5919, 5933, 5939, 5982, 6049, 6114, 6420],
+            "repeats": 22
+        },
+        {
+            "word": "foundations",
+            "postions": [5966, 6000, 6031],
+            "repeats": 3
+        },
+        {
+            "word": "fourth",
+            "postions": [1054, 1193],
+            "repeats": 2
+        },
+        {
+            "word": "french",
+            "postions": [1288],
+            "repeats": 1
+        },
+        {
+            "word": "friend",
+            "postions": [1432, 1678, 1810, 1846],
+            "repeats": 4
+        },
+        {
+            "word": "friends",
+            "postions": [1161],
+            "repeats": 1
+        },
+        {
+            "word": "fruits",
+            "postions": [1081],
+            "repeats": 1
+        },
+        {
+            "word": "full",
+            "postions": [3142, 3750, 3753, 3810, 4010, 4213, 4342, 4649, 4711, 4830, 5011, 5043, 5090, 5988],
+            "repeats": 14
+        },
+        {
+            "word": "furniture",
+            "postions": [2875],
+            "repeats": 1
+        },
+        {
+            "word": "future",
+            "postions": [4045, 5887, 5892],
+            "repeats": 3
+        },
+        {
+            "word": "gain",
+            "postions": [2378],
+            "repeats": 1
+        },
+        {
+            "word": "gaming",
+            "postions": [2905],
+            "repeats": 1
+        },
+        {
+            "word": "general",
+            "postions": [3613, 3824, 6295],
+            "repeats": 3
+        },
+        {
+            "word": "generations",
+            "postions": [5868, 5893],
+            "repeats": 2
+        },
+        {
+            "word": "gentleman",
+            "postions": [838, 1398],
+            "repeats": 2
+        },
+        {
+            "word": "girl",
+            "postions": [889, 1884],
+            "repeats": 2
+        },
+        {
+            "word": "girls",
+            "postions": [1939],
+            "repeats": 1
+        },
+        {
+            "word": "give",
+            "postions": [41, 1402, 4416, 5407, 5523],
+            "repeats": 5
+        },
+        {
+            "word": "given",
+            "postions": [3721],
+            "repeats": 1
+        },
+        {
+            "word": "gloves",
+            "postions": [1500],
+            "repeats": 1
+        },
+        {
+            "word": "goals",
+            "postions": [5855],
+            "repeats": 1
+        },
+        {
+            "word": "good",
+            "postions": [1149, 1189, 1410, 1449, 2226, 2452, 2645, 3495],
+            "repeats": 8
+        },
+        {
+            "word": "goodness",
+            "postions": [3032],
+            "repeats": 1
+        },
+        {
+            "word": "goods",
+            "postions": [2363, 3015],
+            "repeats": 2
+        },
+        {
+            "word": "grant",
+            "postions": [1226],
+            "repeats": 1
+        },
+        {
+            "word": "granted",
+            "postions": [683, 5956],
+            "repeats": 2
+        },
+        {
+            "word": "grave",
+            "postions": [1284],
+            "repeats": 1
+        },
+        {
+            "word": "groat",
+            "postions": [1947],
+            "repeats": 1
+        },
+        {
+            "word": "gross",
+            "postions": [4897],
+            "repeats": 1
+        },
+        {
+            "word": "group",
+            "postions": [5156],
+            "repeats": 1
+        },
+        {
+            "word": "growth",
+            "postions": [2369, 2882],
+            "repeats": 2
+        },
+        {
+            "word": "guests",
+            "postions": [2464],
+            "repeats": 1
+        },
+        {
+            "word": "half",
+            "postions": [632, 917],
+            "repeats": 2
+        },
+        {
+            "word": "happiness",
+            "postions": [3383],
+            "repeats": 1
+        },
+        {
+            "word": "head",
+            "postions": [1820],
+            "repeats": 1
+        },
+        {
+            "word": "heart",
+            "postions": [3472],
+            "repeats": 1
+        },
+        {
+            "word": "heels",
+            "postions": [289],
+            "repeats": 1
+        },
+        {
+            "word": "help",
+            "postions": [2272, 4042, 5911, 6423],
+            "repeats": 4
+        },
+        {
+            "word": "hold",
+            "postions": [5687],
+            "repeats": 1
+        },
+        {
+            "word": "holder",
+            "postions": [4498, 4590, 4611, 4632],
+            "repeats": 4
+        },
+        {
+            "word": "home",
+            "postions": [2202, 2239],
+            "repeats": 2
+        },
+        {
+            "word": "honesty",
+            "postions": [2995],
+            "repeats": 1
+        },
+        {
+            "word": "hope",
+            "postions": [961, 3077, 4152],
+            "repeats": 3
+        },
+        {
+            "word": "hot",
+            "postions": [1550],
+            "repeats": 1
+        },
+        {
+            "word": "house",
+            "postions": [3436],
+            "repeats": 1
+        },
+        {
+            "word": "houses",
+            "postions": [775, 2437],
+            "repeats": 2
+        },
+        {
+            "word": "hundred",
+            "postions": [642, 688, 718, 1037, 1105, 1921, 2296, 3280],
+            "repeats": 8
+        },
+        {
+            "word": "hundreds",
+            "postions": [5825],
+            "repeats": 1
+        },
+        {
+            "word": "identification",
+            "postions": [5971],
+            "repeats": 1
+        },
+        {
+            "word": "idleness",
+            "postions": [2903],
+            "repeats": 1
+        },
+        {
+            "word": "importance",
+            "postions": [2162],
+            "repeats": 1
+        },
+        {
+            "word": "improvement",
+            "postions": [2639],
+            "repeats": 1
+        },
+        {
+            "word": "individual",
+            "postions": [2830, 4082, 4098, 4468, 4577],
+            "repeats": 5
+        },
+        {
+            "word": "industry",
+            "postions": [2996],
+            "repeats": 1
+        },
+        {
+            "word": "inevitable",
+            "postions": [3451],
+            "repeats": 1
+        },
+        {
+            "word": "infants",
+            "postions": [233, 388, 1258, 1334, 2721, 3505],
+            "repeats": 6
+        },
+        {
+            "word": "information",
+            "postions": [4998, 5784, 5920, 5926, 6025, 6040, 6296, 6405],
+            "repeats": 8
+        },
+        {
+            "word": "infringement",
+            "postions": [5269],
+            "repeats": 1
+        },
+        {
+            "word": "inhabitants",
+            "postions": [2932],
+            "repeats": 1
+        },
+        {
+            "word": "innocent",
+            "postions": [593, 3226],
+            "repeats": 2
+        },
+        {
+            "word": "instance",
+            "postions": [2620],
+            "repeats": 1
+        },
+        {
+            "word": "instances",
+            "postions": [856],
+            "repeats": 1
+        },
+        {
+            "word": "instruments",
+            "postions": [2891],
+            "repeats": 1
+        },
+        {
+            "word": "intellectual",
+            "postions": [3865, 5267],
+            "repeats": 2
+        },
+        {
+            "word": "intention",
+            "postions": [357],
+            "repeats": 1
+        },
+        {
+            "word": "interest",
+            "postions": [3480],
+            "repeats": 1
+        },
+        {
+            "word": "international",
+            "postions": [6229],
+            "repeats": 1
+        },
+        {
+            "word": "island",
+            "postions": [1829],
+            "repeats": 1
+        },
+        {
+            "word": "it",
+            "postions": [40, 42, 46, 155, 267, 373, 450, 501, 569, 1015, 1030, 1346, 1528, 1738, 1760, 2038, 2114, 2170, 2430, 2469, 2499, 2728, 2783, 2812, 3053, 3125, 3130, 3199, 3380, 3595, 3962, 4220, 4415, 4417, 4421, 4490, 5437, 5451, 5517, 5818, 6141],
+            "repeats": 41
+        },
+        {
+            "word": "its",
+            "postions": [458, 4211, 4816, 6066],
+            "repeats": 4
+        },
+        {
+            "word": "jews",
+            "postions": [2947],
+            "repeats": 1
+        },
+        {
+            "word": "joints",
+            "postions": [1915],
+            "repeats": 1
+        },
+        {
+            "word": "keep",
+            "postions": [6154, 6379],
+            "repeats": 2
+        },
+        {
+            "word": "keeping",
+            "postions": [4183, 4203],
+            "repeats": 2
+        },
+        {
+            "word": "kick",
+            "postions": [2600],
+            "repeats": 1
+        },
+        {
+            "word": "kind",
+            "postions": [3159, 3236, 5587],
+            "repeats": 3
+        },
+        {
+            "word": "kingdom",
+            "postions": [306, 624, 679, 868, 935, 1125, 1343, 1597, 1974, 2211, 2347, 2754, 2799, 2831, 3300],
+            "repeats": 15
+        },
+        {
+            "word": "knife",
+            "postions": [1553],
+            "repeats": 1
+        },
+        {
+            "word": "know",
+            "postions": [6209],
+            "repeats": 1
+        },
+        {
+            "word": "knowledge",
+            "postions": [2450],
+            "repeats": 1
+        },
+        {
+            "word": "labour",
+            "postions": [2107],
+            "repeats": 1
+        },
+        {
+            "word": "labourers",
+            "postions": [1379, 2071, 3333],
+            "repeats": 3
+        },
+        {
+            "word": "lads",
+            "postions": [1620],
+            "repeats": 1
+        },
+        {
+            "word": "lake",
+            "postions": [6011],
+            "repeats": 1
+        },
+        {
+            "word": "land",
+            "postions": [783],
+            "repeats": 1
+        },
+        {
+            "word": "landlord",
+            "postions": [1450],
+            "repeats": 1
+        },
+        {
+            "word": "landlords",
+            "postions": [1238, 2276, 2977, 3419],
+            "repeats": 4
+        },
+        {
+            "word": "language",
+            "postions": [110],
+            "repeats": 1
+        },
+        {
+            "word": "last",
+            "postions": [1137],
+            "repeats": 1
+        },
+        {
+            "word": "late",
+            "postions": [1600],
+            "repeats": 1
+        },
+        {
+            "word": "law",
+            "postions": [2263, 3573, 3738, 4104, 4482, 5224, 5637, 5662],
+            "repeats": 8
+        },
+        {
+            "word": "laws",
+            "postions": [78, 2496, 4228, 4246, 4266, 4453, 5949, 5994, 5998, 6121, 6252],
+            "repeats": 11
+        },
+        {
+            "word": "learning",
+            "postions": [2919],
+            "repeats": 1
+        },
+        {
+            "word": "leave",
+            "postions": [247, 2233, 3310],
+            "repeats": 3
+        },
+        {
+            "word": "legal",
+            "postions": [5349, 5736],
+            "repeats": 2
+        },
+        {
+            "word": "length",
+            "postions": [3112],
+            "repeats": 1
+        },
+        {
+            "word": "let",
+            "postions": [1131, 2851, 3057],
+            "repeats": 3
+        },
+        {
+            "word": "liability",
+            "postions": [5340, 5361, 5731],
+            "repeats": 3
+        },
+        {
+            "word": "library",
+            "postions": [6316],
+            "repeats": 1
+        },
+        {
+            "word": "license",
+            "postions": [54, 3620, 3663, 3689, 3745, 3751, 3756, 3813, 3863, 4216, 4345, 4429, 4621, 4652, 4717, 4833, 5046],
+            "repeats": 17
+        },
+        {
+            "word": "lieu",
+            "postions": [5502, 5534],
+            "repeats": 2
+        },
+        {
+            "word": "life",
+            "postions": [2519, 5836],
+            "repeats": 2
+        },
+        {
+            "word": "limitation",
+            "postions": [5619, 5629, 5656],
+            "repeats": 3
+        },
+        {
+            "word": "limited",
+            "postions": [5254, 5294, 5416, 5563, 5594],
+            "repeats": 5
+        },
+        {
+            "word": "linked",
+            "postions": [4616],
+            "repeats": 1
+        },
+        {
+            "word": "links",
+            "postions": [4334, 4705, 6019],
+            "repeats": 3
+        },
+        {
+            "word": "list",
+            "postions": [1374],
+            "repeats": 1
+        },
+        {
+            "word": "little",
+            "postions": [401, 471, 1182, 1274, 1782, 2964, 3140],
+            "repeats": 7
+        },
+        {
+            "word": "livelihood",
+            "postions": [217, 791],
+            "repeats": 2
+        },
+        {
+            "word": "lives",
+            "postions": [541],
+            "repeats": 1
+        },
+        {
+            "word": "locations",
+            "postions": [6165],
+            "repeats": 1
+        },
+        {
+            "word": "long",
+            "postions": [2132, 3177, 4140],
+            "repeats": 3
+        },
+        {
+            "word": "looked",
+            "postions": [825],
+            "repeats": 1
+        },
+        {
+            "word": "lord",
+            "postions": [2689],
+            "repeats": 1
+        },
+        {
+            "word": "loss",
+            "postions": [1747],
+            "repeats": 1
+        },
+        {
+            "word": "lot",
+            "postions": [4022],
+            "repeats": 1
+        },
+        {
+            "word": "love",
+            "postions": [2921],
+            "repeats": 1
+        },
+        {
+            "word": "lover",
+            "postions": [1565],
+            "repeats": 1
+        },
+        {
+            "word": "luxury",
+            "postions": [2895],
+            "repeats": 1
+        },
+        {
+            "word": "maidens",
+            "postions": [1622],
+            "repeats": 1
+        },
+        {
+            "word": "main",
+            "postions": [6397],
+            "repeats": 1
+        },
+        {
+            "word": "majestys",
+            "postions": [1902],
+            "repeats": 1
+        },
+        {
+            "word": "making",
+            "postions": [144, 325, 2644],
+            "repeats": 3
+        },
+        {
+            "word": "male",
+            "postions": [1094],
+            "repeats": 1
+        },
+        {
+            "word": "males",
+            "postions": [1058, 1695],
+            "repeats": 2
+        },
+        {
+            "word": "man",
+            "postions": [2853, 3059],
+            "repeats": 2
+        },
+        {
+            "word": "manager",
+            "postions": [5183],
+            "repeats": 1
+        },
+        {
+            "word": "mandarins",
+            "postions": [1910],
+            "repeats": 1
+        },
+        {
+            "word": "manner",
+            "postions": [518, 3396],
+            "repeats": 2
+        },
+        {
+            "word": "manufacture",
+            "postions": [2371, 2884],
+            "repeats": 2
+        },
+        {
+            "word": "many",
+            "postions": [425, 557, 672, 1593, 2155, 2225, 2613, 2700, 3102, 6096, 6149],
+            "repeats": 11
+        },
+        {
+            "word": "march",
+            "postions": [107, 1271],
+            "repeats": 2
+        },
+        {
+            "word": "mares",
+            "postions": [2580],
+            "repeats": 1
+        },
+        {
+            "word": "marked",
+            "postions": [4731, 4979],
+            "repeats": 2
+        },
+        {
+            "word": "market",
+            "postions": [2559],
+            "repeats": 1
+        },
+        {
+            "word": "markets",
+            "postions": [1322],
+            "repeats": 1
+        },
+        {
+            "word": "marriage",
+            "postions": [1083, 2483],
+            "repeats": 2
+        },
+        {
+            "word": "married",
+            "postions": [2547],
+            "repeats": 1
+        },
+        {
+            "word": "materials",
+            "postions": [2889],
+            "repeats": 1
+        },
+        {
+            "word": "matter",
+            "postions": [1582, 2036],
+            "repeats": 2
+        },
+        {
+            "word": "maximum",
+            "postions": [5653],
+            "repeats": 1
+        },
+        {
+            "word": "may",
+            "postions": [38, 460, 486, 638, 1046, 1107, 1487, 1516, 1532, 2014, 2264, 3353, 3645, 3694, 3715, 3723, 3934, 3963, 4413, 4720, 4868, 5244, 5247, 5494, 5520, 5546],
+            "repeats": 26
+        },
+        {
+            "word": "mayors",
+            "postions": [2690],
+            "repeats": 1
+        },
+        {
+            "word": "mean",
+            "postions": [777],
+            "repeats": 1
+        },
+        {
+            "word": "means",
+            "postions": [3574, 4798, 4805],
+            "repeats": 3
+        },
+        {
+            "word": "measure",
+            "postions": [3029],
+            "repeats": 1
+        },
+        {
+            "word": "meat",
+            "postions": [1425],
+            "repeats": 1
+        },
+        {
+            "word": "medium",
+            "postions": [1203, 5066, 5240, 5277, 5473, 5478],
+            "repeats": 6
+        },
+        {
+            "word": "meet",
+            "postions": [6152],
+            "repeats": 1
+        },
+        {
+            "word": "meetings",
+            "postions": [2731],
+            "repeats": 1
+        },
+        {
+            "word": "members",
+            "postions": [331],
+            "repeats": 1
+        },
+        {
+            "word": "men",
+            "postions": [2560, 3220],
+            "repeats": 2
+        },
+        {
+            "word": "merchants",
+            "postions": [883],
+            "repeats": 1
+        },
+        {
+            "word": "mercy",
+            "postions": [2985],
+            "repeats": 1
+        },
+        {
+            "word": "method",
+            "postions": [323, 4911],
+            "repeats": 2
+        },
+        {
+            "word": "methods",
+            "postions": [759, 6268],
+            "repeats": 2
+        },
+        {
+            "word": "michael",
+            "postions": [6303],
+            "repeats": 1
+        },
+        {
+            "word": "might",
+            "postions": [1611, 1768, 2616, 2726],
+            "repeats": 4
+        },
+        {
+            "word": "milk",
+            "postions": [465],
+            "repeats": 1
+        },
+        {
+            "word": "million",
+            "postions": [629, 3292, 3315],
+            "repeats": 3
+        },
+        {
+            "word": "minister",
+            "postions": [1904],
+            "repeats": 1
+        },
+        {
+            "word": "miscarriage",
+            "postions": [2612],
+            "repeats": 1
+        },
+        {
+            "word": "misfortunes",
+            "postions": [3408],
+            "repeats": 1
+        },
+        {
+            "word": "mission",
+            "postions": [3772, 4160, 5787, 6067],
+            "repeats": 4
+        },
+        {
+            "word": "modification",
+            "postions": [5766],
+            "repeats": 1
+        },
+        {
+            "word": "moment",
+            "postions": [2956],
+            "repeats": 1
+        },
+        {
+            "word": "money",
+            "postions": [2286, 2356, 3426, 5015, 5094, 5445],
+            "repeats": 6
+        },
+        {
+            "word": "month",
+            "postions": [1138],
+            "repeats": 1
+        },
+        {
+            "word": "months",
+            "postions": [1307],
+            "repeats": 1
+        },
+        {
+            "word": "mortals",
+            "postions": [3371],
+            "repeats": 1
+        },
+        {
+            "word": "most",
+            "postions": [22, 104, 475, 613, 921, 997, 1245, 1524, 2195, 3450, 4000, 4248, 4397, 6388],
+            "repeats": 14
+        },
+        {
+            "word": "mother",
+            "postions": [485, 1129, 1458],
+            "repeats": 3
+        },
+        {
+            "word": "mothers",
+            "postions": [207, 292, 2507],
+            "repeats": 3
+        },
+        {
+            "word": "motive",
+            "postions": [3491],
+            "repeats": 1
+        },
+        {
+            "word": "mouths",
+            "postions": [3283],
+            "repeats": 1
+        },
+        {
+            "word": "move",
+            "postions": [607],
+            "repeats": 1
+        },
+        {
+            "word": "murdering",
+            "postions": [581, 2950],
+            "repeats": 2
+        },
+        {
+            "word": "name",
+            "postions": [3185, 4187],
+            "repeats": 2
+        },
+        {
+            "word": "nation",
+            "postions": [354, 2020, 2190, 3197],
+            "repeats": 4
+        },
+        {
+            "word": "nations",
+            "postions": [2318, 2487],
+            "repeats": 2
+        },
+        {
+            "word": "native",
+            "postions": [250, 1826, 3014],
+            "repeats": 3
+        },
+        {
+            "word": "necessary",
+            "postions": [3486],
+            "repeats": 1
+        },
+        {
+            "word": "need",
+            "postions": [5848],
+            "repeats": 1
+        },
+        {
+            "word": "negligence",
+            "postions": [5359],
+            "repeats": 1
+        },
+        {
+            "word": "network",
+            "postions": [6341],
+            "repeats": 1
+        },
+        {
+            "word": "new",
+            "postions": [2334, 3128, 5816, 6426, 6439],
+            "repeats": 5
+        },
+        {
+            "word": "newsletter",
+            "postions": [6435],
+            "repeats": 1
+        },
+        {
+            "word": "north",
+            "postions": [6007],
+            "repeats": 1
+        },
+        {
+            "word": "nothing",
+            "postions": [2974],
+            "repeats": 1
+        },
+        {
+            "word": "notice",
+            "postions": [4487, 5408, 6371],
+            "repeats": 3
+        },
+        {
+            "word": "nourishment",
+            "postions": [473, 2092],
+            "repeats": 2
+        },
+        {
+            "word": "number",
+            "postions": [276, 386, 619, 651, 734, 1331, 1356, 1635, 1993, 2175, 2789, 5972, 6071, 6276],
+            "repeats": 14
+        },
+        {
+            "word": "nursing",
+            "postions": [1368],
+            "repeats": 1
+        },
+        {
+            "word": "object",
+            "postions": [159],
+            "repeats": 1
+        },
+        {
+            "word": "objection",
+            "postions": [969, 1796, 2773],
+            "repeats": 3
+        },
+        {
+            "word": "occupation",
+            "postions": [497],
+            "repeats": 1
+        },
+        {
+            "word": "october",
+            "postions": [99],
+            "repeats": 1
+        },
+        {
+            "word": "off",
+            "postions": [2743],
+            "repeats": 1
+        },
+        {
+            "word": "offer",
+            "postions": [1029, 1584, 2596, 3216],
+            "repeats": 4
+        },
+        {
+            "word": "offered",
+            "postions": [1113],
+            "repeats": 1
+        },
+        {
+            "word": "offering",
+            "postions": [2811, 3105, 3246],
+            "repeats": 3
+        },
+        {
+            "word": "offers",
+            "postions": [6226],
+            "repeats": 1
+        },
+        {
+            "word": "office",
+            "postions": [6002],
+            "repeats": 1
+        },
+        {
+            "word": "official",
+            "postions": [4772, 4777, 6034],
+            "repeats": 3
+        },
+        {
+            "word": "online",
+            "postions": [60, 3819, 4435, 6282],
+            "repeats": 4
+        },
+        {
+            "word": "opinion",
+            "postions": [3211],
+            "repeats": 1
+        },
+        {
+            "word": "opportunity",
+            "postions": [5527],
+            "repeats": 1
+        },
+        {
+            "word": "oppression",
+            "postions": [3417],
+            "repeats": 1
+        },
+        {
+            "word": "order",
+            "postions": [1806],
+            "repeats": 1
+        },
+        {
+            "word": "original",
+            "postions": [4817],
+            "repeats": 1
+        },
+        {
+            "word": "other",
+            "postions": [23, 472, 1313, 1350, 1908, 2614, 2694, 2837, 2858, 3490, 3789, 4294, 4313, 4337, 4398, 4668, 4761, 4767, 4822, 5076, 5128, 5266, 5276, 5327, 5583, 6278],
+            "repeats": 26
+        },
+        {
+            "word": "others",
+            "postions": [2701, 2724, 4224],
+            "repeats": 3
+        },
+        {
+            "word": "out",
+            "postions": [317, 3100, 6065],
+            "repeats": 3
+        },
+        {
+            "word": "outside",
+            "postions": [4260, 6247],
+            "repeats": 2
+        },
+        {
+            "word": "overture",
+            "postions": [3351],
+            "repeats": 1
+        },
+        {
+            "word": "owner",
+            "postions": [4926, 5319, 5382, 5692],
+            "repeats": 4
+        },
+        {
+            "word": "page",
+            "postions": [5921, 6035],
+            "repeats": 2
+        },
+        {
+            "word": "pages",
+            "postions": [6264],
+            "repeats": 1
+        },
+        {
+            "word": "pain",
+            "postions": [2033],
+            "repeats": 1
+        },
+        {
+            "word": "paper",
+            "postions": [6386],
+            "repeats": 1
+        },
+        {
+            "word": "paperwork",
+            "postions": [6147],
+            "repeats": 1
+        },
+        {
+            "word": "paragraph",
+            "postions": [3953, 4016, 4053, 4701, 4837, 4862, 4941, 5087, 5310, 5373, 5572],
+            "repeats": 11
+        },
+        {
+            "word": "paragraphs",
+            "postions": [4548, 4570, 4599],
+            "repeats": 3
+        },
+        {
+            "word": "parents",
+            "postions": [139, 397, 527, 725, 933, 1248, 1661, 3368],
+            "repeats": 8
+        },
+        {
+            "word": "parish",
+            "postions": [530],
+            "repeats": 1
+        },
+        {
+            "word": "parsimony",
+            "postions": [2914],
+            "repeats": 1
+        },
+        {
+            "word": "part",
+            "postions": [419, 865, 1055, 3617, 3840, 4662, 4688],
+            "repeats": 7
+        },
+        {
+            "word": "particular",
+            "postions": [1431, 6186, 6385],
+            "repeats": 3
+        },
+        {
+            "word": "parts",
+            "postions": [24, 807, 1526, 4399],
+            "repeats": 4
+        },
+        {
+            "word": "party",
+            "postions": [5328],
+            "repeats": 1
+        },
+        {
+            "word": "passenger",
+            "postions": [202],
+            "repeats": 1
+        },
+        {
+            "word": "past",
+            "postions": [3539],
+            "repeats": 1
+        },
+        {
+            "word": "patriot",
+            "postions": [1683],
+            "repeats": 1
+        },
+        {
+            "word": "pay",
+            "postions": [1971, 2241, 2274, 4889],
+            "repeats": 4
+        },
+        {
+            "word": "payments",
+            "postions": [4950, 4975, 6283],
+            "repeats": 3
+        },
+        {
+            "word": "penny",
+            "postions": [3529],
+            "repeats": 1
+        },
+        {
+            "word": "people",
+            "postions": [130, 1767, 1996, 2791, 3978, 5831, 6389],
+            "repeats": 7
+        },
+        {
+            "word": "pepper",
+            "postions": [1183],
+            "repeats": 1
+        },
+        {
+            "word": "per",
+            "postions": [1390, 2315, 2327, 2383],
+            "repeats": 4
+        },
+        {
+            "word": "perfection",
+            "postions": [2432],
+            "repeats": 1
+        },
+        {
+            "word": "performances",
+            "postions": [3709],
+            "repeats": 1
+        },
+        {
+            "word": "performing",
+            "postions": [4129, 4282, 4850],
+            "repeats": 3
+        },
+        {
+            "word": "permission",
+            "postions": [3601, 4494, 4554, 4586, 4628, 5172],
+            "repeats": 6
+        },
+        {
+            "word": "person",
+            "postions": [1562, 1854, 3940, 5459, 5484, 5513],
+            "repeats": 6
+        },
+        {
+            "word": "personal",
+            "postions": [3479],
+            "repeats": 1
+        },
+        {
+            "word": "persons",
+            "postions": [1118, 1867, 1981],
+            "repeats": 3
+        },
+        {
+            "word": "phrase",
+            "postions": [3797, 4362, 4370, 4530],
+            "repeats": 4
+        },
+        {
+            "word": "physical",
+            "postions": [5065, 5472],
+            "repeats": 2
+        },
+        {
+            "word": "physician",
+            "postions": [1289],
+            "repeats": 1
+        },
+        {
+            "word": "pick",
+            "postions": [788],
+            "repeats": 1
+        },
+        {
+            "word": "piece",
+            "postions": [2314],
+            "repeats": 1
+        },
+        {
+            "word": "pigs",
+            "postions": [1558, 2657],
+            "repeats": 2
+        },
+        {
+            "word": "pine",
+            "postions": [2087],
+            "repeats": 1
+        },
+        {
+            "word": "pity",
+            "postions": [610],
+            "repeats": 1
+        },
+        {
+            "word": "place",
+            "postions": [4231],
+            "repeats": 1
+        },
+        {
+            "word": "plain",
+            "postions": [4763, 4818],
+            "repeats": 2
+        },
+        {
+            "word": "playhouse",
+            "postions": [1961],
+            "repeats": 1
+        },
+        {
+            "word": "pleasure",
+            "postions": [3512],
+            "repeats": 1
+        },
+        {
+            "word": "points",
+            "postions": [3262],
+            "repeats": 1
+        },
+        {
+            "word": "poison",
+            "postions": [1894],
+            "repeats": 1
+        },
+        {
+            "word": "politicians",
+            "postions": [3347],
+            "repeats": 1
+        },
+        {
+            "word": "poor",
+            "postions": [129, 592, 724, 1995, 2522, 3508],
+            "repeats": 6
+        },
+        {
+            "word": "possession",
+            "postions": [3900],
+            "repeats": 1
+        },
+        {
+            "word": "possibility",
+            "postions": [5411],
+            "repeats": 1
+        },
+        {
+            "word": "posted",
+            "postions": [4492, 4583, 4625, 4774],
+            "repeats": 4
+        },
+        {
+            "word": "pound",
+            "postions": [2868],
+            "repeats": 1
+        },
+        {
+            "word": "pounds",
+            "postions": [912, 915, 1212, 1224, 2326, 3317],
+            "repeats": 6
+        },
+        {
+            "word": "power",
+            "postions": [3146],
+            "repeats": 1
+        },
+        {
+            "word": "practice",
+            "postions": [578, 1775, 2607, 3092],
+            "repeats": 4
+        },
+        {
+            "word": "pregnancy",
+            "postions": [2573],
+            "repeats": 1
+        },
+        {
+            "word": "present",
+            "postions": [301, 675, 749],
+            "repeats": 3
+        },
+        {
+            "word": "price",
+            "postions": [3027],
+            "repeats": 1
+        },
+        {
+            "word": "pride",
+            "postions": [2901],
+            "repeats": 1
+        },
+        {
+            "word": "principal",
+            "postions": [837, 2186, 2808],
+            "repeats": 3
+        },
+        {
+            "word": "print",
+            "postions": [3566],
+            "repeats": 1
+        },
+        {
+            "word": "printed",
+            "postions": [3719, 6353],
+            "repeats": 2
+        },
+        {
+            "word": "problem",
+            "postions": [5558],
+            "repeats": 1
+        },
+        {
+            "word": "processing",
+            "postions": [4740],
+            "repeats": 1
+        },
+        {
+            "word": "produce",
+            "postions": [6424],
+            "repeats": 1
+        },
+        {
+            "word": "produces",
+            "postions": [1472],
+            "repeats": 1
+        },
+        {
+            "word": "production",
+            "postions": [5719],
+            "repeats": 1
+        },
+        {
+            "word": "profession",
+            "postions": [3325],
+            "repeats": 1
+        },
+        {
+            "word": "professor",
+            "postions": [6302],
+            "repeats": 1
+        },
+        {
+            "word": "proficiency",
+            "postions": [874],
+            "repeats": 1
+        },
+        {
+            "word": "profit",
+            "postions": [1464, 2331, 2534],
+            "repeats": 3
+        },
+        {
+            "word": "profits",
+            "postions": [4898],
+            "repeats": 1
+        },
+        {
+            "word": "prohibition",
+            "postions": [6212],
+            "repeats": 1
+        },
+        {
+            "word": "project",
+            "postions": [1, 52, 115, 1799, 3544, 3626, 3633, 3638, 3671, 3712, 3754, 3770, 3798, 3811, 3830, 3843, 3894, 3915, 3956, 4001, 4029, 4048, 4058, 4075, 4145, 4158, 4171, 4185, 4214, 4295, 4326, 4343, 4354, 4363, 4371, 4427, 4469, 4531, 4563, 4578, 4619, 4650, 4672, 4715, 4755, 4778, 4831, 4855, 4882, 4905, 4929, 4944, 4986, 5003, 5044, 5079, 5137, 5151, 5177, 5186, 5201, 5228, 5234, 5313, 5322, 5331, 5704, 5724, 5761, 5773, 5789, 5791, 5853, 5860, 5874, 5889, 5899, 5929, 5935, 5978, 6045, 6050, 6261, 6298, 6311, 6334, 6345, 6407, 6416],
+            "repeats": 89
+        },
+        {
+            "word": "promotion",
+            "postions": [5720],
+            "repeats": 1
+        },
+        {
+            "word": "property",
+            "postions": [3866, 5268],
+            "repeats": 2
+        },
+        {
+            "word": "proposal",
+            "postions": [7, 93, 120, 123, 2147, 2781, 3043, 3122, 3549],
+            "repeats": 9
+        },
+        {
+            "word": "prospect",
+            "postions": [3452],
+            "repeats": 1
+        },
+        {
+            "word": "protested",
+            "postions": [845],
+            "repeats": 1
+        },
+        {
+            "word": "provision",
+            "postions": [5669],
+            "repeats": 1
+        },
+        {
+            "word": "provisions",
+            "postions": [5678],
+            "repeats": 1
+        },
+        {
+            "word": "prudence",
+            "postions": [2915],
+            "repeats": 1
+        },
+        {
+            "word": "public",
+            "postions": [4090, 6059, 6073],
+            "repeats": 3
+        },
+        {
+            "word": "purpose",
+            "postions": [1521, 2204, 3701, 5603],
+            "repeats": 4
+        },
+        {
+            "word": "put",
+            "postions": [1817, 1858, 3089, 3304],
+            "repeats": 4
+        },
+        {
+            "word": "quality",
+            "postions": [1120, 1869],
+            "repeats": 2
+        },
+        {
+            "word": "quarter",
+            "postions": [1172],
+            "repeats": 1
+        },
+        {
+            "word": "question",
+            "postions": [729],
+            "repeats": 1
+        },
+        {
+            "word": "rags",
+            "postions": [198, 941, 1392],
+            "repeats": 3
+        },
+        {
+            "word": "raiment",
+            "postions": [535, 3277],
+            "repeats": 2
+        },
+        {
+            "word": "read",
+            "postions": [3758, 3852, 5289],
+            "repeats": 3
+        },
+        {
+            "word": "reader",
+            "postions": [2819],
+            "repeats": 1
+        },
+        {
+            "word": "reading",
+            "postions": [3836],
+            "repeats": 1
+        },
+        {
+            "word": "real",
+            "postions": [3135],
+            "repeats": 1
+        },
+        {
+            "word": "reared",
+            "postions": [737],
+            "repeats": 1
+        },
+        {
+            "word": "reason",
+            "postions": [1073],
+            "repeats": 1
+        },
+        {
+            "word": "receipt",
+            "postions": [5032, 5120],
+            "repeats": 2
+        },
+        {
+            "word": "receipts",
+            "postions": [2427],
+            "repeats": 1
+        },
+        {
+            "word": "redistribution",
+            "postions": [3739, 3748],
+            "repeats": 2
+        },
+        {
+            "word": "references",
+            "postions": [4143, 4324],
+            "repeats": 2
+        },
+        {
+            "word": "refund",
+            "postions": [3937, 5012, 5091, 5307, 5421, 5442, 5505, 5537, 5549, 5568],
+            "repeats": 10
+        },
+        {
+            "word": "regarded",
+            "postions": [1088],
+            "repeats": 1
+        },
+        {
+            "word": "registered",
+            "postions": [3642, 3960],
+            "repeats": 2
+        },
+        {
+            "word": "reject",
+            "postions": [3214],
+            "repeats": 1
+        },
+        {
+            "word": "relations",
+            "postions": [1669],
+            "repeats": 1
+        },
+        {
+            "word": "release",
+            "postions": [97],
+            "repeats": 1
+        },
+        {
+            "word": "remain",
+            "postions": [686, 716, 5864],
+            "repeats": 3
+        },
+        {
+            "word": "remedies",
+            "postions": [5357],
+            "repeats": 1
+        },
+        {
+            "word": "remedy",
+            "postions": [2826],
+            "repeats": 1
+        },
+        {
+            "word": "rent",
+            "postions": [2277, 3424],
+            "repeats": 2
+        },
+        {
+            "word": "repeat",
+            "postions": [3056],
+            "repeats": 1
+        },
+        {
+            "word": "replace",
+            "postions": [3553],
+            "repeats": 1
+        },
+        {
+            "word": "replacement",
+            "postions": [5101, 5305, 5419, 5499, 5566],
+            "repeats": 5
+        },
+        {
+            "word": "reported",
+            "postions": [5113],
+            "repeats": 1
+        },
+        {
+            "word": "reports",
+            "postions": [3708],
+            "repeats": 1
+        },
+        {
+            "word": "representations",
+            "postions": [4302],
+            "repeats": 1
+        },
+        {
+            "word": "request",
+            "postions": [4811],
+            "repeats": 1
+        },
+        {
+            "word": "requirements",
+            "postions": [4546, 6136, 6158, 6207],
+            "repeats": 4
+        },
+        {
+            "word": "research",
+            "postions": [3711, 5213],
+            "repeats": 2
+        },
+        {
+            "word": "resolution",
+            "postions": [3005],
+            "repeats": 1
+        },
+        {
+            "word": "rest",
+            "postions": [538, 2751],
+            "repeats": 2
+        },
+        {
+            "word": "restrictions",
+            "postions": [35, 4410],
+            "repeats": 2
+        },
+        {
+            "word": "return",
+            "postions": [2137, 3888, 5054, 5476],
+            "repeats": 4
+        },
+        {
+            "word": "returns",
+            "postions": [4973],
+            "repeats": 1
+        },
+        {
+            "word": "revenue",
+            "postions": [5963],
+            "repeats": 1
+        },
+        {
+            "word": "rewards",
+            "postions": [2492],
+            "repeats": 1
+        },
+        {
+            "word": "rich",
+            "postions": [3515],
+            "repeats": 1
+        },
+        {
+            "word": "right",
+            "postions": [4122, 5303, 5417, 5564],
+            "repeats": 4
+        },
+        {
+            "word": "roads",
+            "postions": [179],
+            "repeats": 1
+        },
+        {
+            "word": "roasted",
+            "postions": [1005, 2680],
+            "repeats": 2
+        },
+        {
+            "word": "roman",
+            "postions": [1302],
+            "repeats": 1
+        },
+        {
+            "word": "round",
+            "postions": [3291],
+            "repeats": 1
+        },
+        {
+            "word": "royalty",
+            "postions": [4891, 4949, 4974],
+            "repeats": 3
+        },
+        {
+            "word": "rudiments",
+            "postions": [814],
+            "repeats": 1
+        },
+        {
+            "word": "rules",
+            "postions": [3608],
+            "repeats": 1
+        },
+        {
+            "word": "sale",
+            "postions": [1115, 2387],
+            "repeats": 2
+        },
+        {
+            "word": "salt",
+            "postions": [1185, 3180, 6010],
+            "repeats": 3
+        },
+        {
+            "word": "same",
+            "postions": [1931, 4208],
+            "repeats": 2
+        },
+        {
+            "word": "savage",
+            "postions": [614],
+            "repeats": 1
+        },
+        {
+            "word": "savages",
+            "postions": [1091],
+            "repeats": 1
+        },
+        {
+            "word": "scene",
+            "postions": [3406],
+            "repeats": 1
+        },
+        {
+            "word": "scheme",
+            "postions": [567, 1589, 3244],
+            "repeats": 3
+        },
+        {
+            "word": "schemes",
+            "postions": [436],
+            "repeats": 1
+        },
+        {
+            "word": "scraps",
+            "postions": [493],
+            "repeats": 1
+        },
+        {
+            "word": "search",
+            "postions": [6399],
+            "repeats": 1
+        },
+        {
+            "word": "season",
+            "postions": [1263, 1314],
+            "repeats": 2
+        },
+        {
+            "word": "seasoned",
+            "postions": [1179],
+            "repeats": 1
+        },
+        {
+            "word": "second",
+            "postions": [5526, 5540],
+            "repeats": 2
+        },
+        {
+            "word": "section",
+            "postions": [3822, 4996, 5196, 5782, 5924, 6038, 6293],
+            "repeats": 7
+        },
+        {
+            "word": "sections",
+            "postions": [5913],
+            "repeats": 1
+        },
+        {
+            "word": "secure",
+            "postions": [5884],
+            "repeats": 1
+        },
+        {
+            "word": "send",
+            "postions": [6176],
+            "repeats": 1
+        },
+        {
+            "word": "sentence",
+            "postions": [4331, 4697],
+            "repeats": 2
+        },
+        {
+            "word": "sentiments",
+            "postions": [1690],
+            "repeats": 1
+        },
+        {
+            "word": "service",
+            "postions": [1652, 5964],
+            "repeats": 2
+        },
+        {
+            "word": "set",
+            "postions": [347, 3609, 3950, 4567, 4698, 5164, 5193, 5569, 5630],
+            "repeats": 9
+        },
+        {
+            "word": "settlement",
+            "postions": [2517],
+            "repeats": 1
+        },
+        {
+            "word": "sex",
+            "postions": [188],
+            "repeats": 1
+        },
+        {
+            "word": "shame",
+            "postions": [604],
+            "repeats": 1
+        },
+        {
+            "word": "share",
+            "postions": [4219],
+            "repeats": 1
+        },
+        {
+            "word": "sharing",
+            "postions": [4170],
+            "repeats": 1
+        },
+        {
+            "word": "sheep",
+            "postions": [1066],
+            "repeats": 1
+        },
+        {
+            "word": "single",
+            "postions": [1946, 3528],
+            "repeats": 2
+        },
+        {
+            "word": "situation",
+            "postions": [750],
+            "repeats": 1
+        },
+        {
+            "word": "skill",
+            "postions": [2998],
+            "repeats": 1
+        },
+        {
+            "word": "skin",
+            "postions": [1492],
+            "repeats": 1
+        },
+        {
+            "word": "solicitation",
+            "postions": [6206],
+            "repeats": 1
+        },
+        {
+            "word": "solid",
+            "postions": [3133],
+            "repeats": 1
+        },
+        {
+            "word": "some",
+            "postions": [1430, 1765, 1980, 2526, 2624, 3074, 3083, 3511, 5605],
+            "repeats": 9
+        },
+        {
+            "word": "something",
+            "postions": [2256, 3132, 3233],
+            "repeats": 3
+        },
+        {
+            "word": "sort",
+            "postions": [2527],
+            "repeats": 1
+        },
+        {
+            "word": "souls",
+            "postions": [621],
+            "repeats": 1
+        },
+        {
+            "word": "sound",
+            "postions": [328],
+            "repeats": 1
+        },
+        {
+            "word": "sows",
+            "postions": [2588],
+            "repeats": 1
+        },
+        {
+            "word": "spain",
+            "postions": [258],
+            "repeats": 1
+        },
+        {
+            "word": "special",
+            "postions": [3607],
+            "repeats": 1
+        },
+        {
+            "word": "spirit",
+            "postions": [1985, 2993],
+            "repeats": 2
+        },
+        {
+            "word": "squire",
+            "postions": [1443],
+            "repeats": 1
+        },
+        {
+            "word": "staff",
+            "postions": [6257],
+            "repeats": 1
+        },
+        {
+            "word": "stand",
+            "postions": [3267],
+            "repeats": 1
+        },
+        {
+            "word": "start",
+            "postions": [112, 3749, 6390],
+            "repeats": 3
+        },
+        {
+            "word": "state",
+            "postions": [303, 1906, 4254, 5640, 5661, 5952, 6187],
+            "repeats": 7
+        },
+        {
+            "word": "statements",
+            "postions": [6239],
+            "repeats": 1
+        },
+        {
+            "word": "states",
+            "postions": [20, 71, 3581, 3599, 3730, 4095, 4108, 4116, 4263, 4317, 4395, 4446, 4511, 5606, 5997, 6130, 6134, 6199, 6221, 6250],
+            "repeats": 20
+        },
+        {
+            "word": "statue",
+            "postions": [346],
+            "repeats": 1
+        },
+        {
+            "word": "status",
+            "postions": [4306, 5959, 6109, 6181],
+            "repeats": 4
+        },
+        {
+            "word": "stay",
+            "postions": [2200, 2237],
+            "repeats": 2
+        },
+        {
+            "word": "stewed",
+            "postions": [1004],
+            "repeats": 1
+        },
+        {
+            "word": "stir",
+            "postions": [1952],
+            "repeats": 1
+        },
+        {
+            "word": "stock",
+            "postions": [2319, 3308],
+            "repeats": 2
+        },
+        {
+            "word": "streets",
+            "postions": [177, 414],
+            "repeats": 2
+        },
+        {
+            "word": "strength",
+            "postions": [2111],
+            "repeats": 1
+        },
+        {
+            "word": "subject",
+            "postions": [430, 2140, 3741],
+            "repeats": 3
+        },
+        {
+            "word": "submission",
+            "postions": [1744],
+            "repeats": 1
+        },
+        {
+            "word": "success",
+            "postions": [3116],
+            "repeats": 1
+        },
+        {
+            "word": "suck",
+            "postions": [1133],
+            "repeats": 1
+        },
+        {
+            "word": "summer",
+            "postions": [1504],
+            "repeats": 1
+        },
+        {
+            "word": "support",
+            "postions": [404, 4156, 5840, 6060, 6344],
+            "repeats": 5
+        },
+        {
+            "word": "supported",
+            "postions": [462],
+            "repeats": 1
+        },
+        {
+            "word": "sustenance",
+            "postions": [229, 3433],
+            "repeats": 2
+        },
+        {
+            "word": "swamp",
+            "postions": [6254],
+            "repeats": 1
+        },
+        {
+            "word": "swine",
+            "postions": [1070],
+            "repeats": 1
+        },
+        {
+            "word": "swines",
+            "postions": [2636],
+            "repeats": 1
+        },
+        {
+            "word": "table",
+            "postions": [1150],
+            "repeats": 1
+        },
+        {
+            "word": "tables",
+            "postions": [2339, 2662],
+            "repeats": 2
+        },
+        {
+            "word": "take",
+            "postions": [382, 2217, 2742],
+            "repeats": 3
+        },
+        {
+            "word": "takes",
+            "postions": [6142],
+            "repeats": 1
+        },
+        {
+            "word": "talk",
+            "postions": [2854, 3060],
+            "repeats": 2
+        },
+        {
+            "word": "taste",
+            "postions": [1722, 2353, 2669],
+            "repeats": 3
+        },
+        {
+            "word": "taverns",
+            "postions": [2413],
+            "repeats": 1
+        },
+        {
+            "word": "tax",
+            "postions": [4972, 5957, 5970, 5984, 6107, 6241],
+            "repeats": 6
+        },
+        {
+            "word": "teaching",
+            "postions": [2976],
+            "repeats": 1
+        },
+        {
+            "word": "tears",
+            "postions": [608],
+            "repeats": 1
+        },
+        {
+            "word": "temperance",
+            "postions": [2917],
+            "repeats": 1
+        },
+        {
+            "word": "ten",
+            "postions": [1403, 2311],
+            "repeats": 2
+        },
+        {
+            "word": "tenants",
+            "postions": [1456, 2253, 2988],
+            "repeats": 3
+        },
+        {
+            "word": "tender",
+            "postions": [3171],
+            "repeats": 1
+        },
+        {
+            "word": "terms",
+            "postions": [49, 3614, 3659, 3807, 3825, 3860, 3879, 3929, 3986, 4011, 4037, 4178, 4198, 4274, 4424, 4606, 4613, 4653, 4712, 5040, 5129, 5161],
+            "repeats": 22
+        },
+        {
+            "word": "texts",
+            "postions": [4476],
+            "repeats": 1
+        },
+        {
+            "word": "there",
+            "postions": [559, 637, 668, 684, 714, 1296, 3079, 3288, 3990, 4019],
+            "repeats": 10
+        },
+        {
+            "word": "thing",
+            "postions": [2288],
+            "repeats": 1
+        },
+        {
+            "word": "things",
+            "postions": [3265, 3994, 4024],
+            "repeats": 3
+        },
+        {
+            "word": "think",
+            "postions": [266, 1741, 2142, 2769, 2844, 3379],
+            "repeats": 6
+        },
+        {
+            "word": "thirty",
+            "postions": [654],
+            "repeats": 1
+        },
+        {
+            "word": "this",
+            "postions": [8, 57, 88, 165, 274, 428, 623, 681, 733, 904, 1227, 1342, 1520, 1581, 1596, 1814, 1941, 2405, 2476, 2698, 2714, 2780, 2800, 2828, 3121, 3158, 3299, 3377, 3485, 3619, 3683, 3696, 3759, 3765, 3785, 3816, 3842, 3862, 3881, 3931, 3988, 4013, 4039, 4180, 4200, 4204, 4243, 4276, 4290, 4383, 4432, 4463, 4638, 4655, 4664, 4683, 4690, 4725, 4940, 5131, 5167, 5336, 5387, 5429, 5574, 5633, 5643, 5671, 5711, 5758, 6402],
+            "repeats": 71
+        },
+        {
+            "word": "thoughts",
+            "postions": [423, 958, 2011, 3109],
+            "repeats": 4
+        },
+        {
+            "word": "thousand",
+            "postions": [643, 655, 691, 697, 721, 1040, 1045, 1106, 2297, 2325, 2625, 2711, 2747, 2766, 3281],
+            "repeats": 15
+        },
+        {
+            "word": "thousands",
+            "postions": [558],
+            "repeats": 1
+        },
+        {
+            "word": "three",
+            "postions": [191, 911, 914, 1338],
+            "repeats": 4
+        },
+        {
+            "word": "till",
+            "postions": [794, 1470, 3069],
+            "repeats": 3
+        },
+        {
+            "word": "time",
+            "postions": [224, 819, 1878, 2100, 2570],
+            "repeats": 5
+        },
+        {
+            "word": "times",
+            "postions": [947, 1485],
+            "repeats": 2
+        },
+        {
+            "word": "tithes",
+            "postions": [2242],
+            "repeats": 1
+        },
+        {
+            "word": "title",
+            "postions": [90, 1254],
+            "repeats": 2
+        },
+        {
+            "word": "town",
+            "postions": [167, 1942],
+            "repeats": 2
+        },
+        {
+            "word": "trade",
+            "postions": [3428, 3502],
+            "repeats": 2
+        },
+        {
+            "word": "trademark",
+            "postions": [3637, 3643, 3662, 3673, 3688, 3744, 3961, 4565, 4931, 5188, 5324, 5381, 5691],
+            "repeats": 13
+        },
+        {
+            "word": "travel",
+            "postions": [169],
+            "repeats": 1
+        },
+        {
+            "word": "treatment",
+            "postions": [6242],
+            "repeats": 1
+        },
+        {
+            "word": "trouble",
+            "postions": [3141],
+            "repeats": 1
+        },
+        {
+            "word": "turn",
+            "postions": [240, 927],
+            "repeats": 2
+        },
+        {
+            "word": "turned",
+            "postions": [421],
+            "repeats": 1
+        },
+        {
+            "word": "twelve",
+            "postions": [891, 1631],
+            "repeats": 2
+        },
+        {
+            "word": "twenty",
+            "postions": [720, 1039, 1044, 1838, 2746],
+            "repeats": 5
+        },
+        {
+            "word": "two",
+            "postions": [481, 641, 855, 1155, 1388, 2300, 3261, 3314],
+            "repeats": 8
+        },
+        {
+            "word": "types",
+            "postions": [5622],
+            "repeats": 1
+        },
+        {
+            "word": "uniform",
+            "postions": [6139],
+            "repeats": 1
+        },
+        {
+            "word": "united",
+            "postions": [19, 70, 3580, 3598, 3729, 4094, 4107, 4115, 4262, 4316, 4394, 4445, 4510, 6133, 6249],
+            "repeats": 15
+        },
+        {
+            "word": "unknown",
+            "postions": [2289],
+            "repeats": 1
+        },
+        {
+            "word": "upwards",
+            "postions": [2304],
+            "repeats": 1
+        },
+        {
+            "word": "use",
+            "postions": [13, 1932, 3616, 3668, 3695, 3764, 3827, 4388, 4557, 4592, 4903, 4914, 5070],
+            "repeats": 13
+        },
+        {
+            "word": "user",
+            "postions": [4793, 5019, 5052],
+            "repeats": 3
+        },
+        {
+            "word": "usual",
+            "postions": [1328],
+            "repeats": 1
+        },
+        {
+            "word": "valuable",
+            "postions": [2257],
+            "repeats": 1
+        },
+        {
+            "word": "value",
+            "postions": [479, 491, 949, 2446],
+            "repeats": 4
+        },
+        {
+            "word": "vanilla",
+            "postions": [4764, 4819],
+            "repeats": 2
+        },
+        {
+            "word": "vanity",
+            "postions": [2902],
+            "repeats": 1
+        },
+        {
+            "word": "variety",
+            "postions": [5808],
+            "repeats": 1
+        },
+        {
+            "word": "vein",
+            "postions": [2912],
+            "repeats": 1
+        },
+        {
+            "word": "venison",
+            "postions": [1610],
+            "repeats": 1
+        },
+        {
+            "word": "version",
+            "postions": [4773],
+            "repeats": 1
+        },
+        {
+            "word": "viewed",
+            "postions": [4379],
+            "repeats": 1
+        },
+        {
+            "word": "viewing",
+            "postions": [4848],
+            "repeats": 1
+        },
+        {
+            "word": "vintners",
+            "postions": [2416],
+            "repeats": 1
+        },
+        {
+            "word": "virtues",
+            "postions": [1571],
+            "repeats": 1
+        },
+        {
+            "word": "virus",
+            "postions": [5280],
+            "repeats": 1
+        },
+        {
+            "word": "visit",
+            "postions": [6188, 6291],
+            "repeats": 2
+        },
+        {
+            "word": "void",
+            "postions": [5675],
+            "repeats": 1
+        },
+        {
+            "word": "volunteer",
+            "postions": [6343],
+            "repeats": 1
+        },
+        {
+            "word": "volunteers",
+            "postions": [5203, 5715, 5827, 5837, 5843],
+            "repeats": 5
+        },
+        {
+            "word": "walk",
+            "postions": [163],
+            "repeats": 1
+        },
+        {
+            "word": "walks",
+            "postions": [5834],
+            "repeats": 1
+        },
+        {
+            "word": "want",
+            "postions": [243, 1608, 1648, 2090, 3430],
+            "repeats": 5
+        },
+        {
+            "word": "wanted",
+            "postions": [2649],
+            "repeats": 1
+        },
+        {
+            "word": "warranty",
+            "postions": [5295, 5364],
+            "repeats": 2
+        },
+        {
+            "word": "way",
+            "postions": [2666, 3794, 3972],
+            "repeats": 3
+        },
+        {
+            "word": "ways",
+            "postions": [6279],
+            "repeats": 1
+        },
+        {
+            "word": "we",
+            "postions": [763, 1063, 1279, 1531, 1555, 2180, 2538, 2925, 3149, 4117, 4151, 6159, 6167, 6191, 6201, 6208, 6235, 6375],
+            "repeats": 18
+        },
+        {
+            "word": "weather",
+            "postions": [3447],
+            "repeats": 1
+        },
+        {
+            "word": "web",
+            "postions": [6263],
+            "repeats": 1
+        },
+        {
+            "word": "website",
+            "postions": [4780, 6032, 6393, 6403],
+            "repeats": 4
+        },
+        {
+            "word": "weddings",
+            "postions": [2734],
+            "repeats": 1
+        },
+        {
+            "word": "well",
+            "postions": [338, 989, 1613, 1801, 2041, 2157, 2192, 2674],
+            "repeats": 8
+        },
+        {
+            "word": "west",
+            "postions": [6009],
+            "repeats": 1
+        },
+        {
+            "word": "where",
+            "postions": [82, 802, 2414, 2755, 4232, 4457, 6166, 6200],
+            "repeats": 8
+        },
+        {
+            "word": "while",
+            "postions": [6190],
+            "repeats": 1
+        },
+        {
+            "word": "whole",
+            "postions": [385, 2681, 3196, 3302],
+            "repeats": 4
+        },
+        {
+            "word": "wife",
+            "postions": [3538],
+            "repeats": 1
+        },
+        {
+            "word": "will",
+            "postions": [73, 570, 685, 907, 962, 1016, 1095, 1153, 1173, 1186, 1209, 1229, 1260, 1323, 1347, 1418, 1444, 1459, 1497, 1535, 1970, 2254, 2320, 2357, 2391, 2417, 2465, 2682, 2758, 2775, 2792, 2820, 3080, 3162, 3255, 3270, 3364, 3552, 3559, 4155, 4448, 4614, 5389, 5863],
+            "repeats": 44
+        },
+        {
+            "word": "winter",
+            "postions": [1197],
+            "repeats": 1
+        },
+        {
+            "word": "wish",
+            "postions": [5143],
+            "repeats": 1
+        },
+        {
+            "word": "women",
+            "postions": [580, 700, 2548, 2908],
+            "repeats": 4
+        },
+        {
+            "word": "word",
+            "postions": [4739],
+            "repeats": 1
+        },
+        {
+            "word": "work",
+            "postions": [213, 245, 1469, 1650, 2084, 3487, 3766, 3786, 3790, 3846, 3918, 3976, 4099, 4138, 4191, 4205, 4244, 4291, 4297, 4309, 4356, 4358, 4472, 4500, 4527, 4539, 4560, 4581, 4639, 4656, 4665, 4669, 4685, 4692, 4726, 4757, 4814, 5098, 5109, 5123, 5154, 5334, 5431, 5463, 5469, 5493, 5510, 5531, 5575, 5763, 5775],
+            "repeats": 51
+        },
+        {
+            "word": "works",
+            "postions": [3564, 3585, 3629, 3707, 3780, 3833, 3897, 4004, 4032, 4051, 4078, 4083, 4134, 4167, 4173, 4287, 4624, 4857, 4885, 4907, 5061, 5081, 5139, 5158, 5218, 5237, 5707, 5727, 5801, 6077, 6301, 6319],
+            "repeats": 32
+        },
+        {
+            "word": "world",
+            "postions": [27, 2815, 4402],
+            "repeats": 3
+        },
+        {
+            "word": "writing",
+            "postions": [5024, 5174, 5551],
+            "repeats": 3
+        },
+        {
+            "word": "year",
+            "postions": [469, 506, 713, 994, 1110, 1217, 1266, 1318, 2403, 3392],
+            "repeats": 10
+        },
+        {
+            "word": "years",
+            "postions": [426, 799, 892, 1626, 1839, 2301, 3103, 3534, 6329],
+            "repeats": 9
+        },
+        {
+            "word": "yield",
+            "postions": [909],
+            "repeats": 1
+        },
+        {
+            "word": "young",
+            "postions": [986, 1619, 1853, 1938, 2070],
+            "repeats": 5
+        }
+    ]
+}
