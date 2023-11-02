@@ -2,7 +2,7 @@ const int tableSize = 7507;
 template <typename T>
 struct KeyValue {
     string key;
-    typename WordBookAVL<T>::node* value;
+    typename AVLTree<T>::node* value;
 };
 
 template <typename T>
@@ -20,10 +20,10 @@ class NodosHashtable{
             return sum % tableSize;
         }
 
-        WordBookAVL<T> WordBookAVLTree;
+        AVLTree<T> AVLBook;
     
     public:
-        void insert(const string& key, typename WordBookAVL<T>::node* value) {
+        void insert(const string& key, typename AVLTree<T>::node* value) {
                 int i = hash(key);
                 for (KeyValue<T>& k : table[i]) {
                     if (k.key == key) {
@@ -36,7 +36,7 @@ class NodosHashtable{
                 kv.value = value;
                 table[i].push_back(k);
         }
-        typename WordBookAVL<T>::node* search(const string& key) {
+        typename AVLTree<T>::node* search(const string& key) {
             int index = hash(key);
             for (const KeyValue<T>& kv : table[index]) {
                 if (kv.key == key) {
@@ -48,7 +48,7 @@ class NodosHashtable{
 
         vector<string> searchReturn(const string& key) {
             vector<string> bookslist;
-            typename WordBookAVL<T>::node* result = search(key);
+            typename AVLTree<T>::node* result = search(key);
             if (result) {
                 for (const string& book : result->BooksVector) {
                     bookslist.push_back(book);
@@ -59,7 +59,7 @@ class NodosHashtable{
 
 
         void searchAndPrint(const string& key) {
-            typename WordBookAVL<T>::node* result = search(key);
+            typename AVLTree<T>::node* result = search(key);
             if (result) {
                 cout << "Palabra encontrada: " << key << endl;
                 cout << "Libros asociados:" << endl;
@@ -87,9 +87,9 @@ class NodosHashtable{
             for (const WordInfo& info : wordInfoList) {
                 const string& word = info.word;
                 const vector<string>& book = info.books;
-                typename WordBookAVL<T>::node* WordBookAVLNode = new typename WordBookAVL<T>::node(word, book);
-                WordBookAVLTree.insert(word, book);
-                insert(word, WordBookAVLNode);
+                typename AVLTree<T>::node* AVLNode = new typename AVLTree<T>::node(word, book);
+                AVLLibro.insert(word, book);
+                insert(word, AVLNode);
             }
         }
 };
