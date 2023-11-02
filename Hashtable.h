@@ -88,7 +88,7 @@ class NodosHashtable{
                 const string& word = info.word;
                 const vector<string>& book = info.books;
                 typename AVLTree<T>::node* AVLNode = new typename AVLTree<T>::node(word, book);
-                AVLLibro.insert(word, book);
+                AVLBook.insert(word, book);
                 insert(word, AVLNode);
             }
         }
