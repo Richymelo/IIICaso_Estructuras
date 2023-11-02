@@ -22,8 +22,6 @@
 #include "ArbolAVL.h"
 #include "HashTable.h"
 #include "API.h"
-#include "SearchSystem.h"
-#include "NounsExtracter.h"
 
 using json = nlohmann::json;
 using namespace std;
