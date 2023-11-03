@@ -18,7 +18,7 @@ class NodosHashtable{
                 sum += c;
             }
             return sum % tableSize;
-        }
+        }// clase map
 
         AVLTree<T> AVLBook;
     
